@@ -10,6 +10,8 @@
   "author": "abhishek <baisabhishek64@gmail.com> (https://google.com)",
   "license": "ISC",
   "devDependencies": {
+    "eslint": "^3.11.1",
+    "eslint-config-google": "^0.7.1",
     "protractor": "^4.0.11"
   }
 }
